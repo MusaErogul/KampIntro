@@ -20,8 +20,10 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
             //sayilar1[0] = ??
-            //sayilar1[0] = 999 olur.
+            //sayilar1[0] = 999 olur.            
             //**Değer diplerde değerler değiştirken Referans tiplerde Adresler değişir..
+
+
 
 
         }
