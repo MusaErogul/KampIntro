@@ -38,6 +38,7 @@ namespace Odev
                 Console.WriteLine("Ürün Adı:" + urun2.urunAdi + "  " + "Urun Fiyatı:" + urun2.urunFiyat + " " + "Ürün Renk:" + urun2.urunRenk);
                 Console.WriteLine("Ürün Adı:" + urun3.urunAdi + "  " + "Urun Fiyatı:" + urun3.urunFiyat + " " + "Ürün Renk:" + urun3.urunRenk);
                 Console.WriteLine("Ürün Adı:" + urun4.urunAdi + "  " + "Urun Fiyatı:" + urun4.urunFiyat + " " + "Ürün Renk:" + urun4.urunRenk);
+
             }
         }
     }
