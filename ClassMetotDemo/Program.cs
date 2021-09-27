@@ -39,7 +39,7 @@ namespace ClassMetotDemo
                 MusteriManager.MusteriSil(musterilistesi);
                 MusteriManager.MusteriListele(musterilistesi);
 
-                Console.WriteLine("---------------");
+                
             }
 
 
