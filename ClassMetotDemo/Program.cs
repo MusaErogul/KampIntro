@@ -35,9 +35,9 @@ namespace ClassMetotDemo
 
             foreach (var musterilistesi in musteriler)
             {
-               MusteriManager.MusteriEkle(musterilistesi);
-                MusteriManager.MusteriSil(musterilistesi);
-                MusteriManager.MusteriListele(musterilistesi);
+               //MusteriManager.MusteriEkle(musterilistesi);
+               // MusteriManager.MusteriSil(musterilistesi);
+               //MusteriManager.MusteriListele(musterilistesi);
 
                 
             }
